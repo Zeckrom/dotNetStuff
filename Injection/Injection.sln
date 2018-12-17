@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injection", "Injection\Injection.csproj", "{A74C91EC-7E1B-4BE6-A55E-FBE94604A385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injection.Core", "Injection.Core\Injection.Core.csproj", "{C044EA72-B16E-4A61-996C-56BC9798CDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74C91EC-7E1B-4BE6-A55E-FBE94604A385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74C91EC-7E1B-4BE6-A55E-FBE94604A385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74C91EC-7E1B-4BE6-A55E-FBE94604A385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74C91EC-7E1B-4BE6-A55E-FBE94604A385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C044EA72-B16E-4A61-996C-56BC9798CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C044EA72-B16E-4A61-996C-56BC9798CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C044EA72-B16E-4A61-996C-56BC9798CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C044EA72-B16E-4A61-996C-56BC9798CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268F3B03-B976-493C-BA3F-B06B45189FAE}
+	EndGlobalSection
+EndGlobal
